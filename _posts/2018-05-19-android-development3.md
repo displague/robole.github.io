@@ -170,8 +170,6 @@ Create a basic login.
 
 <img src="/assets/img/blog/2018-05-20-android3//login2.png" height="400px"/>
 
-The completed code is [here](https://github.com/robole/login-basic).
-
 ```java
 public class LoginActivity extends Activity {
 

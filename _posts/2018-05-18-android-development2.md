@@ -438,10 +438,6 @@ public class ConversionActivity extends Activity {
 }
 ```
 
-# Code
-
-You can find the completed code in [this github repository](https://github.com/robole/temperature-conversion).
-
 # References
 
 [Vogella: Getting started with Android development - Tutorial](http://www.vogella.com/tutorials/Android/article.html)
