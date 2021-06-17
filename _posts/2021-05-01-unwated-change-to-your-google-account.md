@@ -45,13 +45,24 @@ After some searching, I found how to make a [Country Association Inquiry](https:
 
 Which will happen first? The automatic switching of the country association, or Google responding to my inquiry? It's going to be a race!
 
-<strong><u>Edit: 4.4.2021</u></stronger>
+This may seem like busy work but I think it's important to do what you can to protect your privacy. If you do nothing, Google and others will erode your rights online if it correlates with increasing profits. If we don't pay attention and raise these kind of issues, then they might go unnoticed and may be considered bona-fide.
+
+<strong><u>Edit: 4.4.2021</u></strong>
 
 Google responded with:
 
 > You recently sent us a request to change the country associated with your Google Account. After reviewing your account, we think your current country association is accurate and we didn't change anything.
 >
 > Your country:Malaysia
+>
 > You can see the country associated with your account by looking at Google's Terms of Service.
 
-This may seem like busy work but I think it's important to do what you can to protect your privacy. If you do nothing, Google and others will erode your rights online if it correlates with increasing profits. If we don't pay attention and raise these kind of issues, then they might go unnoticed and may be considered bona-fide.
+<strong><u>Edit: 20.6.2021</u></strong>
+
+To clarify, I requested that Google leave my country association as Germany. I was in Malaysia when I made this request. Their response above denied my request. I guess they switched the country already.
+
+I cross-posted this to [dev.to](https://dev.to/robole/an-unwanted-update-to-your-google-account-3cko) and [Daniel Schroeder](https://dev.to/udondan/comment/1e481) reported that he got this email recently also and he has been physically in Germany for the last 2 years:
+
+> I got the same Mail. They want to move my account from Germany to Thailand. I've not been to Thailand (or anywhere else) since 2 years...
+
+However you interpet residence or international laws, something is awry here. Daniel said he will report it to the authorities in Germany if they do not change his country association. It's given me a nudge to migrate away from the remaining Google products I use.
