@@ -59,10 +59,16 @@ Google responded with:
 
 <strong><u>Edit: 20.6.2021</u></strong>
 
-To clarify, I requested that Google leave my country association as Germany. I was in Malaysia when I made this request. Their response above denied my request. I guess they switched the country already.
+This article has been getting attention today on Hackernews. I want to clarify a couple of points. The objective of this article is to raise some concerns I have about this automatic process of switching country association. I tried to find more information in Google's Terms of Service to understand it, and I didn't find anything.
 
-I cross-posted this to [dev.to](https://dev.to/robole/an-unwanted-update-to-your-google-account-3cko) and [Daniel Schroeder](https://dev.to/udondan/comment/1e481) reported that he got this email recently also and he has been physically in Germany for the last 2 years:
+I issued a Country Association Inquiry as a final effort to get some information. I was hoping a human would reply and I could ask a question. I requested that Google leave my country association as Germany, and I got the response above (see Edit: 4.4.2021), which may be an automated/canned response. Google making a correct/incorrect assessment of my location/status/whatever was not my objective. I wanted to understand this process and what impact it has on interaction with Google. I would like to know this because it will inform my future actions if I use Google services.
+
+Some of the discussion in the thread in Hackernews made this about me. I didn't say Google should be doing X or Y. I didn't say that they made the right or wrong choice based on my exact circumstances. I just stated what happened, sharing the info I was comfortable sharing, and outlining what was unclear to me in the hope that it would help you. I am skeptical that Google will get this right all the time as an automated process.
+
+ I cross-posted this to [dev.to](https://dev.to/robole/an-unwanted-update-to-your-google-account-3cko) and [Daniel Schroeder](https://dev.to/udondan/comment/1e481) reported that he got this email recently also and he has been physically in Germany for the last 2 years:
 
 > I got the same Mail. They want to move my account from Germany to Thailand. I've not been to Thailand (or anywhere else) since 2 years...
 
-However you interpet residence or international laws, something is awry here. Daniel said he will report it to the authorities in Germany if they do not change his country association. It's given me a nudge to migrate away from the remaining Google products I use.
+Daniel said he will report it to the authorities in Germany if they do not change his country association to Germany.
+
+You should do your own research. You should make your own conclusions. If you have concerns, contact Google. Unless, there is a clear answer on Google's policy on this topic, I'm not interested to hear about it.
